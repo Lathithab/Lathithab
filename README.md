@@ -12,7 +12,7 @@ Data Analysis: Python, Pandas, NumPy, Matplotlib, SQL
 Data Science (coming soon): Machine Learning, Deep Learning
 
 ## **📈 Current Projects:** 
-
+Extending Mzanzi Wethu
 Designing data dashboards
 
 ### Let's connect and share ideas! 💬
