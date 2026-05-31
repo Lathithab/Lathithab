@@ -5,15 +5,13 @@ Hey! I’m diving into web development, data analysis, and soon, data science. C
 
 ## **🛠️ Tech Stack:**
 
-Web Dev: HTML, CSS, JavaScript (I swear, I’ll get the hang of it soon)
+Web Dev: HTML, CSS, JavaScript, Next.js 
 
-Data Analysis: Python, Pandas, NumPy, Matplotlib, SQL
-
-Data Science (coming soon): Machine Learning, Deep Learning
+Data: Python, Pandas, NumPy, Matplotlib, SQL
 
 ## **📈 Current Projects:** 
 Extending Mzanzi Wethu
-Designing data dashboards
+CyberSafe
 
 ### Let's connect and share ideas! 💬
 
